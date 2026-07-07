@@ -1,0 +1,17 @@
+__pycache__/
+.venv/
+
+*.xlsx
+*.csv
+*.tsv
+*.txt
+*.joblib
+*.png
+*.pdf
+*.tif
+
+results/*
+!results/.gitkeep
+
+figures/*
+!figures/.gitkeep
